@@ -2,6 +2,8 @@
 #### Supplementary Files for Thesis in Masters of Machine Learning and AI
 By Jamie Paul Parkinson
 
+![Floorplan dataset Image](https://github.com/jprve/MS-Floorplan/blob/main/FPV2.png)
+
 In this repository is the 3 Jupyter Notebook files for the models created throughout the project, of which are named as follows:
 1. [MS_GAN.ipynb](https://github.com/jprve/MS-Floorplan/blob/main/MS_GAN.ipynb) - General Adversarial Network Solution
 2. [MS_ProgressiveGAN.ipynb](https://github.com/jprve/MS-Floorplan/blob/main/MS_ProgressiveGAN.ipynb) - Progressive General Adversarial Network Solution
